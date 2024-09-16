@@ -9,7 +9,11 @@ Clean and stylish navigation bar for smooth browsing.
 User-friendly interface with hover animations for a modern look.
 A blog section (can be added) for customer engagement and product highlights.
 
-3. Technologies Used
+
+you can also see my project here: https://kashish6398.github.io/E-Store/
+
+
+2. Technologies Used
 HTML5: For the structure and layout of the website.
 CSS3: For styling, animations, and responsive design.
 FontAwesome: For icons used in navigation and product pages.
